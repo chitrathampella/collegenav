@@ -1,0 +1,23 @@
+const nodeCoordinates = {
+  NB_ENT: { x: 61.76, y: 98.57 },
+  NB_EXIT: { x: 54.98, y: 98.55 },
+  NB_EXIT2: { x: 35.92, y: 56.89 },
+  PHAR_ENT: { x: 54.37, y: 35.98 },
+  MAIN_PATH_ENT: { x: 112.58, y: 35.85 },
+  NA_ENT: { x: 112.58, y: 93.13 },
+  NA_EXIT1: { x: 54.26, y: 134.80 },
+  MAIN_PATH_ENT2: { x: 98.69, y: 134.70 },
+  MAIN_PATH_EXIT1: { x: 98.22, y: 144.53 },
+  MAIN_PATH1: { x: 97.29, y: 168.57 },
+  MAIN_PATH2: { x: 97.19, y: 191.20 },
+  MAIN_PATH3: { x: 73.34, y: 190.27 },
+  O_ENT_PATH1: { x: 64.36, y: 189.80 },
+  O_ENT_PATH2: { x: 65.34, y: 235.19 },
+    O_ENT_PATH3: { x: 56.85, y: 236.25 },
+    CANTEEN_PATH1: { x: 152.66, y: 161.46 },
+    CANTEEN_MIDDLE: { x: 152.69, y: 202.85},
+    MAIN_PATH_EXIT2: { x: 121.61, y: 203.00 },
+    CANTEEN_MAIN: { x: 153.09, y: 249.04 },
+    PHAR_ENT2: { x: 35.92, y: 51.36 },
+};
+export default nodeCoordinates;
